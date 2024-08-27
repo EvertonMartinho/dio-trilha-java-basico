@@ -1,5 +1,8 @@
 package poo;
 
+import java.util.Scanner;
+
+
 // Classe para o Reprodutor Musical
 public class ReprodutorMusical {
     public void tocar() {
